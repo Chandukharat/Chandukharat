@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there 👋 I Am Dipak Bhise </h1>
+# <h1 align="center">Hi there 👋 I Am Chandu Kharat </h1>
 
 <h3 align="center">  A Curious Web Developer from India </h3>
 
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="mailto:dipakbhise420@gmail.com">Email</a> 
+- 📫 How to reach me: <a href="mailto:kharatc187gmail.com">Email</a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
