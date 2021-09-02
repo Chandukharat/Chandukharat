@@ -2,10 +2,9 @@
 
 <h3 align="center">  A Curious Web Developer from India </h3>
 
-<a href="tel:+917350741783"> Visitor Counts</a>
+<a href="tel:+919172511519"> Visitor Counts</a>
 
 
-<style bacground=solid pink></style?
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ...
