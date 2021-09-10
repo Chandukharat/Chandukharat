@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="mailto:kharatc187gmail.com">Email</a> 
+- 📫 EMAIL ID: <a href="mailto:kharatc187gmail.com">Email</a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
